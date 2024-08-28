@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
+    "./rex": "./src/rex.tsx",
     "./dropdown-menu": "./src/dropdown-menu.tsx",
     "./breadcrumb": "./src/breadcrumb.tsx",
     "./radio-group": "./src/radio-group.tsx",
